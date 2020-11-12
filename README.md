@@ -12,8 +12,7 @@ Please enter the first number
 85  
 Please enter the second number  
 21  
-85 - 21 =  
-64
+The answer is 64
 
 ## **Limitations**
 0 if statements  
