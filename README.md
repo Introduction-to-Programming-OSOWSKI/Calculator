@@ -1,14 +1,29 @@
-# **Assignment Title**
+# **Calculator**
 
 ## **Assignment Description**
+Create program that allows the user to add, subtract, multiply, or divide two numbers. Return the answer in one method called *calculate* that takes three parameters- String operation, int numOne, int numTwo. The *calculate* method should return a float.
+
 
 
 ## **Example**
->
+>Would you like to add, subtract, multiply, or divide?  
+subtract  
+Please enter the first number  
+85  
+Please enter the second number  
+21  
+85 - 21 =  
+64
 
 ## **Limitations**
+0 if statements  
+1 methods  
+
 
 ## **Hints**
+Use a switch statement in the calculate method  
+Use a Scanner object to get user input
+
 
 ---
 
