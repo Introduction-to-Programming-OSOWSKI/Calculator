@@ -23,6 +23,9 @@ The answer is 64
 Use a switch statement in the calculate method  
 Use a Scanner object to get user input
 
+## **Concepts**  
+Methods, Operators, Scanner, String, int, float, switch
+
 
 ---
 
