@@ -1,7 +1,7 @@
 # **Calculator**
 
 ## **Assignment Description**
-Create program that allows the user to add, subtract, multiply, or divide two numbers. Return the answer in one method called *calculate* that takes three parameters- String operation, int numOne, int numTwo. The *calculate* method should return a float.
+Create a method named calculate() that allows the user to add, subtract, multiply, or divide two numbers. Calculate should take three parameters- String operation, int x, int y. The calculate() method should return a float.
 
 
 
