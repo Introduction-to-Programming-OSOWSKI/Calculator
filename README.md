@@ -1,30 +1,35 @@
 # **Calculator**
 
 ## **Assignment Description**
-Create a method named calculate() that allows the user to add, subtract, multiply, or divide two numbers. Calculate should take three parameters- String operation, int x, int y. The calculate() method should return a float.
+Create a method named calculate() that allows the user to add, subtract, multiply, or divide two numbers. Calculate should take three parameters- String operation, float x, and float y.
 
 
 
 ## **Example**
->Would you like to add, subtract, multiply, or divide?  
-subtract  
-Please enter the first number  
-85  
-Please enter the second number  
-21  
-The answer is 64
+>calculate("add", 5, 5)  
+10
+
+>calculate("subtract", 10, 10)  
+0
+
+>calculate("multiply", 10, 10)  
+100
+
+>calculate("divide", 10, 10)  
+1
 
 ## **Limitations**
-0 if statements  
-1 methods  
+1 method  
+1 if  
+2 else if  
+1 else
 
 
 ## **Hints**
-Use a switch statement in the calculate method  
-Use a Scanner object to get user input
+You cannot compare two strings with ==. You must use *string1*.equals(*string2*) to compare two strings.
 
 ## **Concepts**  
-Methods, Operators, Scanner, String, int, float, switch
+Methods, Operators, String, float, if/else
 
 
 ---
